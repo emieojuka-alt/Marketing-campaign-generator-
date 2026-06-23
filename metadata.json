@@ -1,0 +1,6 @@
+{
+  "name": "Marketing Campaign Generator",
+  "description": "Generate comprehensive multi-channel marketing campaigns, creative copy assets, target personas, budget configurations, and live visual previews using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
